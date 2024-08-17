@@ -1,0 +1,1 @@
+This repo contains practice assignments for the training Intro to Python
